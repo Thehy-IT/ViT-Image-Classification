@@ -67,8 +67,8 @@ Các chỉ số được sử dụng để đánh giá hiệu năng mô hình ba
 ## 8. So sánh mô hình
 | Mô hình      | Tập dữ liệu | Độ chính xác | Số tham số | Ghi chú                                |
 | ------------ | ----------- | ------------ | ---------- | -------------------------------------- |
-| ViT-Small    | CIFAR-100   | 78.3%        | 22M        | Huấn luyện chậm hơn, dễ giải thích hơn |
-| CNN-ResNet18 | CIFAR-100   | 75.9%        | 21M        | Huấn luyện nhanh hơn, ít tham số hơn   |
+| ViT-Small    | CIFAR-100   |         | ..M        | Huấn luyện chậm hơn, dễ giải thích hơn |
+| CNN-ResNet18 | CIFAR-100   |         | ..M        | Huấn luyện nhanh hơn, ít tham số hơn   |
 
 ## 9. Trực quan hóa Attention
 
