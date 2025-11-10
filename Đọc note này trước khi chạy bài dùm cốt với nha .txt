@@ -1,0 +1,4 @@
+Tạo moi trường ảo để chạy bài nha đừng chạy bằng local nha
+lệnh tạo môi trường nè ` python -m venv venv` (chạy xong kiểm tra trong terminal đã kích hoạt chưa nha)
+Tạo xong rồi chạy lệnh `pip install -r requirements.tx` để tải thư viện cho bài trong file requirement.txt kẻo tải thư viện ngoài khôgn cùng thư viện của bài, tránh lỗi.
+Đừng sửa code trong file .gitignore để không push data với môi trường ảo venv lên git nha.
