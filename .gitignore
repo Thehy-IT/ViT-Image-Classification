@@ -348,6 +348,10 @@ venv/
 env/
 .env/
 
+# Data folder
+data/
+
+
 
 # Cake - Uncomment if you are using it
 #tools/**
